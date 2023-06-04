@@ -1,4 +1,4 @@
-# [AQube: HR Management and Analytics system]
+#AQube: HR Management and Analytics system
 
 [AQube]is HR management and analytics template created by [Abigail Anna Smith](https://github.com/2141144AbigailSmith).
 
